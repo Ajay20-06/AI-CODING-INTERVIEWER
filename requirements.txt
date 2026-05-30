@@ -1,0 +1,47 @@
+# Core AI Framework
+agno
+openai
+groq
+
+# Environment Variables
+python-dotenv
+
+# Database
+sqlalchemy
+psycopg2-binary
+sqlite-utils
+
+# API & Backend
+fastapi
+uvicorn
+pydantic
+
+# Async + HTTP Requests
+aiohttp
+httpx
+requests
+
+
+
+# Token Counting
+tiktoken
+
+# Voice Interview Support
+livekit
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+
+# Speech-to-Text / TTS
+deepgram-sdk
+elevenlabs
+
+# Logging & Utilities
+rich
+loguru
+
+# Testing
+pytest
+
+#Real-time Communication
+websockets
